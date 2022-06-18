@@ -1,16 +1,27 @@
-### Hi there 👋
+### Olá Eu Sou Thiago Marcos:👋
 
-<!--
-**Thiagomsantos36/Thiagomsantos36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 hoje trablaho como motorista ...
+- 🌱 atualmente estudando A.D.S (analize desenvolvimento de sistema ...
+- 🤔 estou a procura de um trabalho na aréa de T.I ...
+🙌🙌�😉😉
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  # Snake Animation
+  - uses: Platane/snk@master
+    id: snake-gif
+    with:
+      github_user_name: camilamaraschin
+      svg_out_path: dist/github-contribution-grid-snake.svg
+  - uses: crazy-max/ghaction-github-pages@v2.1.3
+    with:
+      target_branch: output
+      build_dir: dist
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      uses: Platane/snk@master
+        id: snake-gif
+        
+        
+      
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+          
